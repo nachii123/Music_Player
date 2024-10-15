@@ -12,7 +12,7 @@ const Sidebar = () => {
   return (
     <div className="bg-[#0e0e0e] text-white w-[450px] h-screen flex flex-col justify-between p-4">
       <div>
-        <h1 className="text-3xl font-bold mb-8"><AudiotrackIcon sx={{color:'#f94646', fontSize: '42px'}}/> <span className="text-[#f94646]">Dream</span>Music</h1>
+        <h1 className="text-3xl font-bold mb-8"><AudiotrackIcon sx={{color:'#f94646', fontSize: '42px'}}/> <span className="text-[#f94646]">Your Dream</span>Music</h1>
         <ul className="space-y-6">
           <li className="flex items-center space-x-4">
             <Home sx={iconStyles} />

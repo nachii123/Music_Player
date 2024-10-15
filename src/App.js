@@ -1,8 +1,8 @@
 import { useState } from "react";
-import Sidebar from "./Components/Sidebar";
-import Header from "./Components/Header";
-import MainContent from "./Components/MainContent";
-import NowPlaying from "./Components/NowPlaying";
+import Sidebar from "./componentsFiles/Sidebar";
+import Header from "./componentsFiles/Header";
+import MainContent from "./componentsFiles/MainContent";
+import NowPlaying from "./componentsFiles/NowPlaying";
 // import {song} from "./songs/DontStopTilYouGetEnough.mp3"
 
 const songsData = [
